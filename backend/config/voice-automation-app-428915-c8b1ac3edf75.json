@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voice-automation-app-428915",
+  "private_key_id": "c8b1ac3edf75941c8c5d9895dafb988e9fdd7e9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+SKEwioINVLVI\nleH3RH1CsyTGCgHFW19cVCfFo1kq1OaQYL4EWuvWbzcfvATGIbEIzpNjZMK0SFR/\nuGojYV8P19Px9M/abE3e72HVJEd4CCvSUUFiHH8t9M5ZpoamMCpLRndhIiaQ4Gba\n9fg/rOGkA/OB+i4+sQYvx5vVLm4/jAjqClMmeyBOgw3qaAUuTURqrY+RjVg+9cJJ\na5cbxzDCEl5P0EWG6CubusynT7R78foiwOzaOyYoA//t8SyraI3vvvoC3kFlsLII\n8ZbLwT1pU/zyLykMHJmbCgfCnhXGFFzdIykLYz77BjHb14yesKPviZJ6HCTgDP2L\nbCI7DST9AgMBAAECggEALw2qvmQh0MYXpgFaRVjsWKgP+eDTm0gDBsPQqfDAxfSr\npxwlINKS6w3JZdGKpKwEKRdcHwH1m7sfGg4yQNl9Nl+6i2RsWajagLxVRu2Xtrje\njT2Gm4pMcMLOnCCvvzy92KtuLdjSDJVRGeglISnRCkvn1UZWVS5VR09m24qFvLSo\n8w+MYRwvT9l4x83Nq9PHjIdh/PYw0z5KWMHpwH36dLQmFaQKPj0UENOwXSBfwvVN\nvK2a3X3U2pBJ2cMHEipaSiZDtYQPJFgo7c/7qQdPUqJ2ufiIYIKZ72Cif7AjAuDD\nd80iDoVbr0ozxcYbGMR7POxeY8yfCrWMfp4kzYODwQKBgQDjd/bDOEJQ0NLm05bK\ntDzzXZzu7yb/0fsVMaLSvpLZSkreS8BOJ2g+ASIAz1qxZv5sqDGpzOfbzIb55oaA\nOWg+BBLaxg1QuWEbn6Yv1qItgV4ldOkj3zxuO1ndl247h98XJeaOHTsRPuSMAESB\n0x/0odx1E9r3flCFlsLYVEtCdQKBgQDWJqfOeYoHsd4kenQBTIPU0lGDBqyEcatB\n2VIAAXZDBCuLG8FdOalnvq4ibYH/phLp67yrKoGp88gE9DnJJQyYQtxmErS/ok6O\nc0N7COo7kZ6PSrxtGb8NfKZvmwRWa4Qv0A89UzOMiTR17l/Q1uHZBBH4p2JGERHA\nVUt/XND3aQKBgDL8luFXYPYAeOWok+pH0Em0uBKOpK0/AgrUH20hroTqNDHzxN0/\n1Avh8R9BW1DchzcP1GH9PhN0muS1GXzwYT9VZmyHbECl7PBmLrgWYi/VCadXt1KF\nHWSQBSq4YMsTP5xOsIk2YCETeeMvxCtdiZIqHeJYWwKS27W1/2LCMkRpAoGBAMlK\nIlb4dN6QuI4vL5T897l2SznObyA6u8+0Vtg8h42sgMVLvHBFP8+NMp6Xsia7UnHf\nrEJzPNejljHZ4esIURNZXVLwaEbsZ8yL2TTvh0Ogt5pWlFA0cBlcPhEPc39Lpj9O\n4NQyvXRujwn+mr9xC25x3faMVtonNzlCsyku9BhpAoGAUOu8g9+vy1h5Hu8M2FrB\nU+E0mo9XMEUxjzd7h0v895zDZEaK37b0TJMoeEJDT9J+2DhixcKQYkYlwrwnfOTj\ncB9RIf0DuEHxn0pbbDxlK1BFOmjolGMdV+ek9DsufQ6OZaithegCvmRcIa17EC+Y\nsHtH93o1qB415B5Y9MS8QHU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "harsh-284@voice-automation-app-428915.iam.gserviceaccount.com",
+  "client_id": "106549010317055235347",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/harsh-284%40voice-automation-app-428915.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

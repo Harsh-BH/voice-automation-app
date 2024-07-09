@@ -1,0 +1,16 @@
+{
+  "name": "voice-automation-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/speech": "^6.6.1",
+    "express": "^4.19.2"
+  }
+}
